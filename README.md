@@ -10,7 +10,7 @@ Future Robotics and AI engineer with an ambition to build robots to change peopl
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/gabriel-junior-ndlovu-b40919247/)
 * ✉️  You can contact me at [gabrieljuniorndlovu@gmail.com](mailto:gabrieljuniorndlovu@gmail.com)
 * 🚀  I'm currently working on [A Lost and found App for the University of Zimbabwe](http://github.com/GabrielJuniorNdlovu/Finderella)
-* 🧠  I'm learning Nodejs, Reactjs, Flutter, MongoDB, Tensorflow, CNN, ROS2
+* 🧠  I'm learning JavaScript, Nodejs, Reactjs,ReactNative, Flutter, MongoDB, Python, Tensorflow, CNN, ROS2
 * 🤝  I'm open to collaborating on Arduino and Raspberry Pi projects
 * ⚡  Love-Love cars , Formula 1 and motorsport....Forza Ferrari!!
 
