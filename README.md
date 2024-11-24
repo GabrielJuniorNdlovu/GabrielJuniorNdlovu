@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-Future Robotics and AI engineer with an ambition to build robots to change people's quality of life with the integration of robotic systems and AI in day-to-day livelihood. My passion for technology👨🏾‍💻 and engineering 👷🏾‍♂️🦾brought me to the University of Zimbabwe where I am currently pursuing my bachelors degree.I've been coding for over a year and despite the steep learning curve, its safe to say I've enjoyed every second of me sitting at my computer and learning different technologies and computer jargon.
+I am an aspiring Robotics and AI engineer dedicated to enhancing quality of human lives through the seamless integration of robotic systems and artificial intelligence into everyday livelihood. My passion for technology 👨🏾‍💻 and engineering 👷🏾‍♂️🦾 has driven me to pursue a Bachelor’s degree in Computer Engineering at the University of Zimbabwe. With over a year of hands-on coding experience, I have delved into diverse technologies and advanced computer science concepts, embracing the challenges and rewards of this dynamic field. My ultimate goal is to build innovative solutions that bridge the gap between human potential and technological advancement.
 
 * 🌍  I'm based in Kadoma, Zimbabwe
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/gabriel-junior-ndlovu-b40919247/)
@@ -12,10 +12,10 @@ Future Robotics and AI engineer with an ambition to build robots to change peopl
 * 🚀  I'm currently working on [A Lost and found App for the University of Zimbabwe](http://github.com/GabrielJuniorNdlovu/Finderella)
 * 🧠  I'm learning JavaScript, Nodejs, Reactjs,ReactNative, Flutter, MongoDB, Python, Tensorflow, CNN, ROS2
 * 🤝  I'm open to collaborating on Arduino and Raspberry Pi projects
-* ⚡  Love-Love cars , Formula 1 and motorsport....Forza Ferrari!!
+* ⚡  Love-Love cars ,Formula 1 and motorsport fanboy....Forza Ferrari!!
 
 <a href="https://www.x.com/GabbaNj18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GabbaNj18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/GabbaNj18?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
 /></a>
 
 ### Skills
@@ -34,12 +34,12 @@ src="https://img.shields.io/twitter/follow/GabbaNj18?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GabrielJuniorNdlovu"><img src="https://github-readme-stats.vercel.app/api?username=GabrielJuniorNdlovu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GabrielJuniorNdlovu's GitHub stats" /></a>
+<a href="http://www.github.com/GabrielJuniorNdlovu"><img src="https://github-readme-stats.vercel.app/api?username=GabrielJuniorNdlovu&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="GabrielJuniorNdlovu's GitHub stats" /></a>
 
-<a href="http://www.github.com/GabrielJuniorNdlovu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielJuniorNdlovu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/GabrielJuniorNdlovu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielJuniorNdlovu&stroke=3382ed&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/GabrielJuniorNdlovu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJuniorNdlovu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GabrielJuniorNdlovu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJuniorNdlovu&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/GabrielJuniorNdlovu/Finderella" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielJuniorNdlovu&repo=Finderella&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/GabrielJuniorNdlovu/Finderella" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielJuniorNdlovu&repo=Finderella&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
