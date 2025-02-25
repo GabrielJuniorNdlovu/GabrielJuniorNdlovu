@@ -42,7 +42,5 @@ src="https://img.shields.io/twitter/follow/GabbaNj18?logo=twitter&style=for-the-
 
 <a href="https://github.com/GabrielJuniorNdlovu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJuniorNdlovu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div align="center">
-  <img src="https://github.com/GabrielJuniorNdlovu/GabrielJuniorNdlovu/blob/output/github-snake-dark.svg" alt="Snake Animation">
-</div>
+
 
