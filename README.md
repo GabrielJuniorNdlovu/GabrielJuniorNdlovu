@@ -10,7 +10,7 @@ I am an inspiring AI/ML engineer dedicated to enhancing human lives through the 
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/gabriel-junior-ndlovu-b40919247/)
 * ✉️  You can contact me at [ndlovugabrieljunior@gmail.com](mailto:ndlovugabrieljunior@gmail.com)
 * 🚀  I'm currently working on [Google-Gemini Clone](http://github.com/GabrielJuniorNdlovu/gemini-clone)
-* 🧠  I'm learning MERN Stack, ROS 2 Humble
+* 🧠  I'm learning MERN Stack, ROS 2 Humble and Neural Networks 
 * 🤝  I'm open to collaborating on Arduino Projects
 * ⚡  Die-hard motorsport enthusiast… Forza Ferrari! 🏎️🔥
 
