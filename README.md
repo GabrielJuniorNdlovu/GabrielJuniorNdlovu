@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-I am an inspiring AI/ML engineer dedicated to enhancing human lives through the seamless integration of artificial intelligence and machine learning into everyday experiences. My passion for technology and engineering has driven me to pursue a Bachelor’s degree in Computer Engineering at the University of Zimbabwe. With over a year of hands-on coding experience, I have explored diverse technologies and advanced computer science concepts, embracing the challenges and rewards of this ever-evolving field. My ultimate goal is to develop innovative AI-driven solutions that bridge the gap between human potential and technological advancement.
+I’m a passionate Computer Engineering student at the University of Zimbabwe, working toward my vision of using AI and Machine Learning to improve the way people live and interact with the world around them. With over a year of hands-on coding experience, I’ve been actively exploring different technologies, from writing scripts in Python to building web-based AI projects. Every challenge I face is an opportunity to learn, grow, and get one step closer to building solutions that truly matter. What drives me is the belief that technology should serve people to make everyday life simpler, smarter, and more human-centered. That’s why I’m focused on developing practical, intuitive, and innovative AI-driven systems that bridge the gap between where we are and what’s possible.
 
 * 🌍  I'm based in Zimbabwe
 * 🖥️  See my portfolio at [My Website Portfolio](http://gabrieljuniorndlovu.github.io/html-css-js-portfolio/)
