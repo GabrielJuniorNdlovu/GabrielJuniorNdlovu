@@ -7,12 +7,11 @@ Computer Engineer
 I’m a passionate Computer Engineering student at the University of Zimbabwe, working toward my vision of using AI and Machine Learning to improve the way people live and interact with the world around them. With over a year of hands-on coding experience, I’ve been actively exploring different technologies, from writing scripts in Python to building web-based AI projects. Every challenge I face is an opportunity to learn, grow, and get one step closer to building solutions that truly matter. What drives me is the belief that technology should serve people to make everyday life simpler, smarter, and more human-centered. That’s why I’m focused on developing practical, intuitive, and innovative AI-driven systems that bridge the gap between where we are and what’s possible.
 
 * 🌍  I'm based in Zimbabwe
-* 🖥️  See my portfolio at [My Website Portfolio](http://gabrieljuniorndlovu.github.io/html-css-js-portfolio/)
 * ✉️  You can contact me at [ndlovugabrieljunior@gmail.com](mailto:ndlovugabrieljunior@gmail.com)
 * 🚀  I'm currently working on [Project Doomsday](https://github.com/GabrielJuniorNdlovu/project_doomsday)
-* 🧠  I'm learning the MERN Stack, ROS2 Humble and Neural Networks
-* 🤝  I'm open to collaborating on Arduino and Robotics Projects
-* ⚡  Die-hard motorsport enthusiast… Sempre Forza Ferrari! 🏎️🔥
+* 🧠 I'm currently mastering Agentic RAG Pipelines, MLOps, and Large Language Model Integration.
+* 🤝  I'm open to collaborating on AI/ML, Big Data, IoT and Robotics Projects
+* ⚡  Die-hard motorsport enthusiast…Sempre Forza Ferrari! 🏎️🔥
 
 <a href="https://www.x.com/GabbaNj18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/GabbaNj18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
