@@ -9,7 +9,7 @@ I’m a passionate Computer Engineering student at the University of Zimbabwe, w
 * 🌍  I'm based in Zimbabwe
 * 🖥️  See my portfolio at [My Website Portfolio](http://gabrieljuniorndlovu.github.io/html-css-js-portfolio/)
 * ✉️  You can contact me at [ndlovugabrieljunior@gmail.com](mailto:ndlovugabrieljunior@gmail.com)
-* 🚀  I'm currently working on [Google-Gemini Clone](http://github.com/GabrielJuniorNdlovu/gemini-clone)
+* 🚀  I'm currently working on [Project Doomsday](https://github.com/GabrielJuniorNdlovu/project_doomsday)
 * 🧠  I'm learning the MERN Stack, ROS2 Humble and Neural Networks
 * 🤝  I'm open to collaborating on Arduino and Robotics Projects
 * ⚡  Die-hard motorsport enthusiast… Sempre Forza Ferrari! 🏎️🔥
