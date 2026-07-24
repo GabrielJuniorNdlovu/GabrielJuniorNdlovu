@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is GABRIEL
 ===============================================================================================================================
 
-Computer Engineer
+AI Engineer
 -----------------
 
 I’m a passionate Computer Engineering student at the University of Zimbabwe, working toward my vision of using AI and Machine Learning to improve the way people live and interact with the world around them. With over a year of hands-on coding experience, I’ve been actively exploring different technologies, from writing scripts in Python to building web-based AI projects. Every challenge I face is an opportunity to learn, grow, and get one step closer to building solutions that truly matter. What drives me is the belief that technology should serve people to make everyday life simpler, smarter, and more human-centered. That’s why I’m focused on developing practical, intuitive, and innovative AI-driven systems that bridge the gap between where we are and what’s possible.
