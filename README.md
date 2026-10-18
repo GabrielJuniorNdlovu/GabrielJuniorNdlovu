@@ -8,7 +8,7 @@ While my title might say AI & ML Engineer, I am fundamentally a builder who arch
 
 * 🌍  I'm based in Harare, Zimabwe
 * ✉️  You can contact me at [ndlovugabrieljunior@gmail.com](mailto:ndlovugabrieljunior@gmail.com)
-* 🚀  I'm currently working on [an Advanced Brain-Computer Interface (BCI)](http://github.com/GabrielJuniorNdlovu/Project-Alchemy.git)
+* 🚀  I'm currently working on [a non-invasive Brain-Computer Interface (BCI)](http://github.com/GabrielJuniorNdlovu/Project-Alchemy.git)
 * 🧠  I'm currently learning Deep Learning with PyTorch
 * 👥  I'm looking to collaborate on ROS 2 projects
 * 💬  I'm secretly Spiderman.....but don't tell anyone 🕷️🕸️🦸‍♂️
