@@ -6,7 +6,7 @@ AI & ML Engineer
 
 While my title might say AI & ML Engineer, I am fundamentally a builder who architects the end-to-end engines powering intelligent systems. After an early realisation that cutting-edge AI models are only as good as the infrastructure serving and maintaining them, I stepped out of the Jupyter notebook and into the trenches of full-stack engineering and enterprise data orchestration. Today, I weave together everything from high-volume data pipelines and autonomous AI agents torobust web APIs and sustainable IoT hardware, using tools like PyTorch, Apache Kafka, and FastAPI. I firmly believe these aren't isolated fields but interconnected building blocks for a smarter future. So whether you're recruiting for a high-impact team, want to talk quantitative systems, or just want to follow along as I build (and debug!) in public, my inbox is always open.
 
-* 🌍  I'm based in Harare, Zimabwe
+* 🌍  I'm based in Harare, Zimbabwe
 * ✉️  You can contact me at [ndlovugabrieljunior@gmail.com](mailto:ndlovugabrieljunior@gmail.com)
 * 🚀  I'm currently working on [a non-invasive Brain-Computer Interface (BCI)](http://github.com/GabrielJuniorNdlovu/Project-Alchemy.git)
 * 🧠  I'm currently learning ROS and Gazebo
